@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Jiggead
+  heading: Jighead
   maxWidthPX: "652"
 
 ---
